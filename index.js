@@ -41,13 +41,6 @@ const pokemon = [
     },
 
     pokemon.forEach((pokemons) =>
-        console.log(legend.name)
-
-
-
-
-
-
-
+    console.log(legend.name)
 
 ]
