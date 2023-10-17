@@ -1,4 +1,4 @@
-const pokemon = [
+const pokemons = [
 
     {
         name: "Mewtwo", 
@@ -39,8 +39,9 @@ const pokemon = [
         mega: false,
         caught: true,
     },
-
-    pokemon.forEach((pokemons) =>
-    console.log(legend.name)
-
+   
 ]
+pokemons.forEach((pokemon) => console.log(pokemon.name));
+pokemons.forEach((pokemon) => console.log(pokemon.mid));
+
+
