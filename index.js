@@ -43,5 +43,9 @@ const pokemons = [
 ]
 pokemons.forEach((pokemon) => console.log(pokemon.name));
 pokemons.forEach((pokemon) => console.log(pokemon.mid));
+pokemons.forEach((pokemon) => console.log(pokemon.caught));
+const pokemon = pokemons.filter (pokemon => pokemons === true);
+console.log (legendary);
+
 
 
